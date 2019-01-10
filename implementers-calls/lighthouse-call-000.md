@@ -33,17 +33,17 @@
     * Resourcing:
         * Project has been running lean over the past couple of months, this is due to security assignments at SigP that needed attention and also a desire to reduce duplicate work as the spec changes.
         * No burning runway, good for project in long run but need to start scaling up and ramping up some work for this year.
-        * We have the equivalent of 2x full time devs this year, looking to apply more.
+        * Have hired the equivalent of 2x full time devs this year, looking to apply more.
         * Crunch time for the project - not here yet.
         * Working but not working hard - Crunch time = **February/March**.
-        * Have all ready for crunch time.
+        * Want to have all ready for crunch time.
         * Who is doing what:
             * @Paul: Project Management, RPC, whatever.
             * @Age: libp2p; syncing;
             * @Luke: infrastructure (CI);
             * @Mehdi (Not present): spec; more engaged later.
             * @Grant, @Michael, @Stan: helping externally doing great work.
-            * If you want to help, please check out the "Good first issue" issues or jump on the Gitter.
+            * If you want to help, please check out the "Good first issue" [issues](https://github.com/sigp/lighthouse/labels/good%20first%20issue) or jump on the [Gitter](https://gitter.im/sigp/lighthouse).
 
 ## Spec Progress Updates
 
@@ -115,15 +115,13 @@
         * Validator assignment, bits and pieces that will be useful for other people.
         * Divisible enough such that the validator client can implement parts of it without having to import the entire thing - don't want to have the 4 lines of code in a crate.
     * **@Alex** raised a point for the crate to be "stateless" - maybe if dealing with state it can read closures and be passed the state.
-    * @Alex supports.
-    * @Stan - cool with him too (maybe biased because spec is still in making)
-        * Previous remarks could have been harsh because of how hard it is to keep up.
 * **@Paul** looking to merge PR [#129](https://github.com/sigp/lighthouse/pull/129) and make an issue to rename the crate from `beacon_chain` since Lighthouse will need a `beacon chain`.
 
 ## Misc
 
 * **@Stan**: Looking for an issue that can be picked up and done.
-* **@Age**: in general do you think we should be making more "Good first issues" - lots of people chasing to start and looking for things to work on.
+* **@Age**: in general do you think we should be making more "Good first issues"? 
+    * Lots of people chasing to start and looking for things to work on.
     * **@Paul**: Thinks it's quite a good point.
     * **@Luke**: Maybe we should aim for 5 or so "Good first issues" at a time for people to pick up.
 * Figuring out next meeting time and will publish.
