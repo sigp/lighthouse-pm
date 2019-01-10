@@ -44,6 +44,10 @@
             * @Mehdi (Not present): spec; more engaged later.
             * @Grant, @Michael, @Stan: helping externally doing great work.
             * If you want to help, please check out the "Good first issue" issues or jump on the Gitter.
+
+## Spec Progress Updates
+
+* **@Paul**:
     * Spec Changes:
         * Spec has been changing over the past few months, but EF is showing signs that changes will be less frequent now.
         * Consulting with [Danny Ryan](http://github.com/djrtwo) - Lighthouse going to resume spec implementation.
