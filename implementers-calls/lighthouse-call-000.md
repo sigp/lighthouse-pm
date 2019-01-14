@@ -35,8 +35,8 @@
         * No burning runway, good for project in long run but need to start scaling up and ramping up some work for this year.
         * Have hired the equivalent of 2x full time devs this year, looking to apply more.
         * Crunch time for the project - not here yet.
-        * Working but not working hard - Crunch time = **February/March**.
-        * Want to have all ready for crunch time.
+        * Working hard but not crunching - Crunch time = **February/March**.
+        * Want to have PM and resourcing prepared for crunch time.
         * Who is doing what:
             * @Paul: Project Management, RPC, whatever.
             * @Age: libp2p; syncing;
