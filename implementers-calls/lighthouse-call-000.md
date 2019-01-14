@@ -3,6 +3,7 @@
 #### Meeting Date/Time: Tue, Jan 08, 2019, 22:00 UTC
 #### Meeting Duration: ~30 Minutes
 #### [Github Agenda Page](https://github.com/sigp/lighthouse-pm/issues/1)
+#### [YouTube Link](https://youtu.be/V7WSjc2FKC8)
 
 ## Agenda
 
